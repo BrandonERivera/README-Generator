@@ -1,7 +1,8 @@
-# Readme Gen
+# ReadMe Generator
   ## Desriptions
-  Creates Read Mes
+  It creates Readme.md files
   ##Table of Contents
+  
   -[Installation](#Installation)
   - [Usage](#Usage)
   - [License](#License)
@@ -17,7 +18,7 @@
   ## Contributions
   none
   ## Test
-  in command promt type node index.js
+  writing node index.js in the command line
   ## Questions
   See my Github at [BrandonERivera](https://github.com/BrandonERivera)
-  Or reach my email at brandonellis.rivera@gmail.com
+  Or reach my email at Brandonellis.rivera@gmail.com
