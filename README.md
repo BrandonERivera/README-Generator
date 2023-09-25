@@ -1,16 +1,16 @@
-# README Generator
+# Readme gen
   ## Desriptions
-  It creates Readme files based on prompts
+  Creates Readmes
   ## Installations
-  none needed
+  none
   ## Usage
   undefined
   ## License
-  [!License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)(https://opensource.org/licenses/MIT)
+  [![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
   ## Contributions
-  None
+  no one
   ## Test
-  writing node index.js
+  node index.js
   ## Questions
   See my Github at [BrandonERivera](https://github.com/BrandonERivera)
-  Or reach my email at [brandonellis.rivera@gmail.com](brandonellis.rivera@gmail.com)
+  Or reach my email at brandonellis.rivera@gmail.com
