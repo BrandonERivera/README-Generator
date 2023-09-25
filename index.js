@@ -39,7 +39,7 @@ const questions = [
     {
         type: 'input',
         name: 'github',
-        message: 'Enter your GitHub link.',
+        message: 'Enter your GitHub name.',
     },
     {
         type: 'input',

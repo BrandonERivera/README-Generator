@@ -25,7 +25,7 @@ function renderLicenseSection(license) {
   renderLicenseBadge(license)
   renderLicenseLink(license)
   }
-  return `[![License:${license}](${badge})(${link})]`
+  return `[!License:${license}](${badge})(${link})`
 }
 
 // TODO: Create a function to generate markdown for README
@@ -44,9 +44,8 @@ function generateMarkdown(data) {
   ## Test
   ${data.test}
   ## Questions
-  See my Github at ${data.github}
-  Or reach my email at ${data.email}
-
+  See my Github at [${data.github}](https://github.com/${data.github})
+  Or reach my email at [${data.email}](${data.email})
 `;
 }
 
