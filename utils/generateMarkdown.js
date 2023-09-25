@@ -1,5 +1,4 @@
 // TODO: Create a function that returns a license badge based on which license is passed in
-const inquirer = require('inquirer');
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   badge = `https://img.shields.io/badge/License-${license}-blue.svg`
@@ -33,7 +32,14 @@ function generateMarkdown(data) {
   return `# ${data.title}
   ## Desriptions
   ${data.descr}
-  ## Installations
+  ##Table of Contents
+  -[Installation](#Installation)
+  - [Usage](#Usage)
+  - [License](#License)
+  - [Contributions](#Contributions)
+  - [Tests](#Test)
+  - [Questions](#Questions)
+  ## Installation
   ${data.install}
   ## Usage
   ${data.usage}
