@@ -1,16 +1,16 @@
-# Readme gen
+# ReadMe Gen
   ## Desriptions
-  Creates Readmes
+  Creates Readme Files
   ## Installations
   none
   ## Usage
   undefined
   ## License
-  [![License:MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  [![License:BSD_3--Clause](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](https://opensource.org/licenses/BSD_3--Clause)
   ## Contributions
-  no one
+  none
   ## Test
-  node index.js
+  in command prompt write node index.js
   ## Questions
   See my Github at [BrandonERivera](https://github.com/BrandonERivera)
-  Or reach my email at brandonellis.rivera@gmail.com
+  Or reach my email at brandonEllis.rivera@gmail.com

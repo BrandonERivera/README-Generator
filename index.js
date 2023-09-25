@@ -24,7 +24,7 @@ const questions = [
         type: 'list',
         name: 'license',
         message: 'what is the licensening for your project',
-        choices: ['None','MIT']
+        choices: ['None','MIT', 'Apache_2.0', 'BSD_3--Clause','EPL_1.0' ]
     },
     {
         type: 'input',
